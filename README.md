@@ -5,6 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mineiros-io/terramate)](https://goreportcard.com/report/github.com/mineiros-io/terramate)
 [![codecov](https://codecov.io/gh/mineiros-io/terramate/branch/main/graph/badge.svg?token=gMRUkVUAQ4)](https://codecov.io/gh/mineiros-io/terramate)
 [![Join Slack](https://img.shields.io/badge/slack-@mineiros--community-f32752.svg?logo=slack)](https://mineiros.io/slack)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fi4ki%2Fterramate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fi4ki%2Fterramate?ref=badge_shield)
 
 Terramate is a tool for managing multiple Terraform stacks.
 
@@ -156,3 +157,7 @@ You can also check our [live example](https://github.com/mineiros-io/terramate-e
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mineiros-io/terramate&type=Timeline)](https://star-history.com/#mineiros-io/terramate&Timeline)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fi4ki%2Fterramate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fi4ki%2Fterramate?ref=badge_large)
